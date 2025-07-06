@@ -1,6 +1,6 @@
-# 🎨 FARIDAH – UI/UX Design Showcase
+# BlaxeX – UI/UX Landing Page
 
-This project highlights a curated collection of **UI/UX design work** created by Faridah Ayelabegan using **Figma**. The designs reflect a deep understanding of layout hierarchy, visual balance, and user-centric interaction design.
+This project highlights a curated collection of **A Simple Landing Page design work** created by Faridah Ayelabegan using **Figma**. The designs reflect a deep understanding of layout hierarchy, visual balance, and user-centric interaction design.
 
 🔗 [👉 View the Figma Project](https://www.figma.com/design/bbDCDXwW0larlKK52fuyHJ/FARIDAH?t=R8GPoeNkGMctWSuw-1)
 
@@ -15,15 +15,13 @@ This project highlights a curated collection of **UI/UX design work** created by
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Figma** – Interface design, component libraries, and prototyping
-- **Webflow** *(for layout experiments and interaction logic)*
-- **Canva** *(optional for visual polishing)*
 
 ---
 
-## 🧩 Featured Concepts
+## Featured Concepts
 
 - Color theory and contrast application
 - Button design, form UX, and mobile layout studies
@@ -31,7 +29,7 @@ This project highlights a curated collection of **UI/UX design work** created by
 
 ---
 
-## 💡 Takeaways
+## Takeaways
 
 - Developed stronger control over spacing, rhythm, and balance
 - Explored micro-interaction patterns and clean UI composition
@@ -39,7 +37,7 @@ This project highlights a curated collection of **UI/UX design work** created by
 
 ---
 
-## 👩‍🎨 About the Designer
+## About the Designer
 
 I'm **Faridah Ayelabegan**, a certified **UI/UX Designer** and **Product Management Specialist**. I help businesses and startups bring their ideas to life with thoughtful design, clean interfaces, and problem-solving creativity.
 
