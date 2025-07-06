@@ -2,11 +2,11 @@
 
 This project highlights a curated collection of **A Simple Landing Page design work** created by Faridah Ayelabegan using **Figma**. The designs reflect a deep understanding of layout hierarchy, visual balance, and user-centric interaction design.
 
-🔗 [👉 View the Figma Project](https://www.figma.com/design/bbDCDXwW0larlKK52fuyHJ/FARIDAH?t=R8GPoeNkGMctWSuw-1)
+🔗 [👉 View the Figma Project](https://www.figma.com/design/bbDCDXwW0larlKK52fuyHJ/FARIDAH?node-id=0-1&t=PvMUrf9fFHxHyUHw-1)
 
 ---
 
-## 🧠 Project Goals
+## Project Goals
 
 - Present clean and well-structured UI concepts
 - Practice creative freedom in layouts and component styling
@@ -46,7 +46,7 @@ I'm **Faridah Ayelabegan**, a certified **UI/UX Designer** and **Product Managem
 
 ---
 
-## 🚀 What's Next
+## What's Next
 
 - Adding motion prototypes for interaction flow
 - Webflow development experiments based on selected screens
