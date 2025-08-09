@@ -51,3 +51,9 @@ I'm **Faridah Ayelabegan**, a certified **UI/UX Designer** and **Product Managem
 - Adding motion prototypes for interaction flow
 - Webflow development experiments based on selected screens
 - Real-world client UI case studies coming soon!
+
+
+##  Design Credit
+
+© 2025 Ayelabegan Fareedah
+Unauthorized use without credit is prohibited.
